@@ -1,4 +1,4 @@
-# The Rieks Method: A Simple Framework for Task Evaluation and Execution
+# The ActivityZen Method: A Simple Framework for Task Evaluation and Execution
 
 {{write an abstract}}
  
@@ -24,9 +24,9 @@ There is a lot of evidence for this, e.g.:
 
 Despite knowing that certain tasks may be inefficient or ineffective, people often continue to engage in these activities due to a combination of cognitive limitations, biases, social influences, and organizational dynamics. Herbert Simon's concept of bounded rationality explains that individuals make decisions within the constraints of limited information and cognitive capabilities, often resulting in satisfactory rather than optimal choices ([Simon, 1955](https://www.jstor.org/stable/1884852)). Daniel Kahneman's research on cognitive biases reveals that people frequently rely on intuitive (System 1) thinking, which is prone to errors such as overconfidence, anchoring, and framing effects ([Kahneman, 2011](https://www.farrarstrausgiroux.com)). Piers Steel's work on procrastination indicates that individuals often delay or avoid tasks perceived as difficult or unpleasant, contributing to inefficiency ([Steel, 2007](https://doi.org/10.1037/0033-2909.133.1.65)). Furthermore, Jeffrey Pfeffer and Robert Sutton highlight the "knowing-doing gap," where organizations fail to translate knowledge into action due to lack of clear objectives, bureaucratic inertia, and misaligned incentives ([Pfeffer & Sutton, 2000](https://hbr.org/product/the-knowing-doing-gap-how-smart-companies-turn-knowledge-into-action/1408E-KND-ENG)). Social pressures and the desire to conform also play a significant role, as individuals may undertake tasks to align with perceived expectations rather than objective efficiency. These factors collectively explain why inefficiency and ineffectiveness persist in both individual and organizational behaviors.
 
-## 3. The Rieks Method
+## 3. The ActivityZen Method
 
-The Rieks Method revolves around three core questions that are designed to clarify (and enhance) the purpose and scope of any task. Having answers to these questions helps to improve the quality of task specifications, task assignment and task execution, and gives individuals more confidence that their efforts are directed towards actually meaningful and productive outcomes.
+The ActivityZen Method revolves around three core questions that are designed to clarify (and enhance) the purpose and scope of any task. Having answers to these questions helps to improve the quality of task specifications, task assignment and task execution, and gives individuals more confidence that their efforts are directed towards actually meaningful and productive outcomes.
 
 The questions are as follows:
 
@@ -70,42 +70,42 @@ These questions may be answered in a number of situations.
 - whenever a person has been executing a task from some time (some tasks take a long time). By answering these questions, that person {{elaborate}}.
 - whenever a task is being evaluated for efficiency and effectiveness. By answering these questions, the person that evaluates that {{elaborate}}. 
 
-## 4. Benefits of the Rieks Method
+## 4. Benefits of the ActivityZen Method
 
 {{rewrite this entire chapter, only using sections when there is sufficient contents for it (currently, the contents for each is some 2 sentences, which doesn't warrant them to be a section. Link the benefits to the reasons for people to behave inefficient/ineffective, and do some text that shows how the answers to the questions might contribute to their coming to grips with that, and become more efficient/effective/communucative/relevant/etc.)}}
 
 ### 4.1. Increased Efficiency
-By providing a clear framework for task evaluation, the Rieks Method helps streamline task management and reduce wasted effort. This section describes how using the method can lead to more efficient use of time and resources.
+By providing a clear framework for task evaluation, the ActivityZen Method helps streamline task management and reduce wasted effort. This section describes how using the method can lead to more efficient use of time and resources.
 
 ### 4.2. Improved Communication
 The method enhances communication with stakeholders by providing clear criteria for evaluating and discussing tasks. This section shows how better communication can lead to more successful collaborations and project outcomes.
 
 ### 4.3. Better Task Relevance
-The Rieks Method ensures that tasks are relevant and aligned with the actual needs of their users. This section explains how this alignment can lead to more meaningful and impactful work.
+The ActivityZen Method ensures that tasks are relevant and aligned with the actual needs of their users. This section explains how this alignment can lead to more meaningful and impactful work.
 
 ## 5. Practical Implementation
 
 {{rewrite this entire chapter, providing decent and practical contents for each of the sections (except for 5.3, which I will do later)}}
 
 ### 5.1. Step-by-Step Guide
-This section provides a detailed guide on how to implement the Rieks Method for various types of tasks. It includes practical steps and tips for answering the three core questions.
+This section provides a detailed guide on how to implement the ActivityZen Method for various types of tasks. It includes practical steps and tips for answering the three core questions.
 
 ### 5.2. Common Challenges and Solutions
-Implementing the Rieks Method may come with challenges. This section discusses potential obstacles and offers solutions to help overcome them.
+Implementing the ActivityZen Method may come with challenges. This section discusses potential obstacles and offers solutions to help overcome them.
 
 ### 5.3. Case Studies
-Real-world examples and case studies demonstrate the successful application of the Rieks Method. This section serves as inspiration and provides practical insights into the method's effectiveness.
+Real-world examples and case studies demonstrate the successful application of the ActivityZen Method. This section serves as inspiration and provides practical insights into the method's effectiveness.
 
 ## 6. Encouraging Adoption
 
 ### 6.1. Motivating Yourself and Others
-Developing the discipline to consistently use the Rieks Method can be challenging. This section provides strategies for staying motivated and encouraging others to adopt the method.
+Developing the discipline to consistently use the ActivityZen Method can be challenging. This section provides strategies for staying motivated and encouraging others to adopt the method.
 
 ### 6.2. Communicating with Stakeholders
-Effectively communicating the importance of the Rieks Method to others, such as project leaders and customers, is crucial. This section offers tips for maintaining good relationships while insisting on precise answers to the method's questions.
+Effectively communicating the importance of the ActivityZen Method to others, such as project leaders and customers, is crucial. This section offers tips for maintaining good relationships while insisting on precise answers to the method's questions.
 
 ## 7. Conclusion
-The Rieks Method is a powerful tool for improving task evaluation and execution. By answering three simple but precise questions, individuals and teams can ensure their efforts are productive and aligned with user needs. This whitepaper has introduced the method, highlighted its benefits, and provided practical guidance for implementation. Readers are encouraged to start using the Rieks Method to enhance their task management processes.
+The ActivityZen Method is a powerful tool for improving task evaluation and execution. By answering three simple but precise questions, individuals and teams can ensure their efforts are productive and aligned with user needs. This whitepaper has introduced the method, highlighted its benefits, and provided practical guidance for implementation. Readers are encouraged to start using the ActivityZen Method to enhance their task management processes.
 
 ## 8. References
 <!-- The referencing method used in the markdown text is a form of APA (American Psychological Association) citation style, adapted for an online format. It involves providing the author's name or organization, the year of publication, the title of the work, and the URL from where the document can be retrieved. This method ensures that all necessary information is available for readers to locate the original sources.-->
