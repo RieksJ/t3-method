@@ -1,18 +1,10 @@
-# The ActivityZen Method: A Simple Framework for Task Evaluation and Execution
+# {{come up with a catchy title based on the contents of the paper}}
 
-<!-- {{rewrite the abstract below, to reflect the modification you (and I) have been making to the text}} -->
-The ActivityZen Method provides a structured framework for task evaluation and execution, aimed at improving efficiency, relevance, and communication in work processes. By answering three essential questions—about the concrete results of a task, the specific users of these results, and the intended use by these users—the method ensures that tasks are clearly defined, purposeful, and aligned with user needs. This whitepaper introduces the ActivityZen Method, details its benefits, and offers practical guidance for implementation.
+{{write an abstract}}
 
 ## 1. Introduction
 
-<!-- {{write the Introduction chapter, based on the content of the remainder of the paper, in an order that makes sense to readers. Start by introducing readily recognizable, real-world examples of people doing ineffective and/or inefficient things, and make it plausible that people typically have 'good' reasons to do that. Then, write some text that argues there is a need for the proposals we make in this paper. Next, write a paragraph that explicitly mentions these proposals, and the benefits (and drawbacks) that readers can experience when applying them. Finally, write a paragraph that explains the structure of this paper.}} -->
-In many modern workplaces, it is common to see individuals and teams engaged in tasks that ultimately yield minimal benefits or are counterproductive. For example, employees may spend hours preparing reports that go unread or attending meetings that produce no actionable outcomes. These activities often stem from well-intentioned but misguided efforts to meet workplace norms, fulfill perceived expectations, or compensate for unclear objectives.
-
-The prevalence of such inefficiencies highlights the need for a structured approach to task evaluation and execution. The ActivityZen Method addresses these inefficiencies by providing a clear framework for defining and understanding the purpose and scope of any task. By focusing on concrete results, identifying specific users, and understanding the intended use of these results, the method ensures that efforts are directed toward meaningful and productive outcomes.
-
-The ActivityZen Method revolves around three core questions: What are the concrete results of the task? Which (groups of) individual people will actually be using these results? What is it that these people will actually be doing with the results? By applying this method, readers can expect increased efficiency, improved communication, and better task relevance. However, it may also require a shift in mindset and the development of new habits, which can be challenging.
-
-This paper is structured as follows: Section 2 elaborates on the problem statement, highlighting common issues in task management. Section 3 introduces the ActivityZen Method in detail. Section 4 discusses the benefits of the method. Section 5 provides practical guidance for implementation. Section 6 offers strategies for encouraging adoption. Finally, Section 7 concludes the paper, summarizing the key points and encouraging readers to adopt the ActivityZen Method.
+{{write the Introduction chapter, based on the content of the remainder of the paper, in an order that makes sense to readers. Start by introducing readily recognizable, real-world examples of people doing ineffective and/or inefficient things, and make it plausible that people typically have 'good' reasons to do that. Then, write some text that argues there is a need for the proposals we make in this paper. Next, write a paragraph that explicitly mentions these proposals, and the benefits (and drawbacks) that readers can experience when applying them. Finally, write a paragraph that explains the structure of this paper.}}
 
 ## 2. Problem Statement
 
@@ -48,9 +40,7 @@ Having a good answer to the question of concrete results ensures that tasks are 
 
 Answers to the second question ("**Which (groups of) individual people will <u>actually</u> be using these results?**") should list the names of the individuals that will be using the results, and/or the names of a group of people, such as "Members of Parliament", for which it is clear who is, and who is not, a member. We will use the term 'consumers (of a result)' to refer to the set of individuals that will actually be using that result.
 
-Answers should not refer to groups
-
- of individuals for which it cannot be established who is, and who is not a part of the group. For example, "the customer" or "readers" are not useful as an answer.
+Answers should not refer to groups of individuals for which it cannot be established who is, and who is not a part of the group. For example, "the customer" or "readers" are not useful as an answer.
 
 Note that consumers are individuals that will <u>*actually*</u> be using the results. There may be many other individuals that might <u>*potentially*</u> use the results, but these are not considered consumers. 
 
@@ -74,6 +64,8 @@ These questions may be answered in a number of situations.
 
 ## 4. Benefits of the ActivityZen Method
 
+{{rewrite this chapter (including its title/header) such that the benefits are not yet claimed as such, but are envisaged or expected to be the result of the method.}}
+
 The ActivityZen Method offers several benefits by addressing the common barriers to effective task management, as identified by Simon, Kahneman, Steel, and Pfeffer. By providing a clear framework for task evaluation, the method helps individuals and organizations overcome cognitive limitations, biases, and organizational dynamics that lead to inefficiency.
 
 Firstly, the method increases efficiency by ensuring tasks are clearly defined with concrete results. This clarity helps in setting realistic expectations and provides measurable benchmarks for evaluating task completion. It reduces ambiguity and misunderstanding, leading to better resource allocation and successful task outcomes.
@@ -86,8 +78,7 @@ Overall, the ActivityZen Method helps individuals and organizations become more 
 
 ## 5. Practical Implementation
 
-<!-- {{write a one paragraph introduction for this section}} -->
-Implementing the ActivityZen Method requires a systematic approach to ensure its principles are effectively applied. This section provides detailed steps, addresses common challenges, and offers real-world examples to guide users through the implementation process.
+{{write a one paragraph introduction for this section}}
 
 ### 5.1. Step-by-Step Guide
 Implementing the ActivityZen Method involves answering the three core questions for any task. Here is a detailed guide:
@@ -128,10 +119,11 @@ Implementing the ActivityZen Method may come with challenges such as resistance 
 ### 5.3. Case Studies
 Real-world examples and case studies demonstrate the successful application of the ActivityZen Method. This section serves as inspiration and provides practical insights into the method's effectiveness.
 
+{{create a one-cell table that contains the text "Placeholder for the results of the Groningen experiment".}}
+
 ## 6. Encouraging Adoption
 
-<!-- {{write a one paragraph introduction for this section}} -->
-Encouraging the adoption of the ActivityZen Method involves motivating yourself and others to embrace its principles and consistently apply them. This section provides strategies for building discipline, fostering communication, and ensuring the method's successful integration into regular workflows.
+{{write a one paragraph introduction for this section}}
 
 ### 6.1. Motivating Yourself and Others
 Developing the discipline to consistently use the ActivityZen Method can be challenging. Here are some strategies:
@@ -150,17 +142,3 @@ Effectively communicating the importance of the ActivityZen Method to others is 
 ## 7. Conclusion
 The ActivityZen Method is a powerful tool for improving task evaluation and execution. By answering three simple but precise questions, individuals and teams can ensure their efforts are productive and aligned with user needs. This whitepaper has introduced the method, highlighted its benefits, and provided practical guidance for implementation. Readers are encouraged to start using the ActivityZen Method to enhance their task management processes.
 
-## 8. References
-<!-- The referencing method used in the markdown text is a form of APA (American Psychological Association) citation style, adapted for an online format. It involves providing the author's name or organization, the year of publication, the title of the work, and the URL from where the document can be retrieved. This method ensures that all necessary information is available for readers to locate the original sources.-->
-
-<!-- {{make sure that all references in the body of the text correspond with one entry in the list below. Remove any entries in the list below that are not mentioned in the body of the text. Rearrange the list such that the references are sorted alphabetically.}} -->
-- Gallup. (2020). Employee engagement holds steady in first half of 2020. Retrieved from [https://www.gallup.com/workplace/321965/employee-engagement-holds-steady-first-half-2020.aspx](https://www.gallup.com/workplace/321965/employee-engagement-holds-steady-first-half-2020.aspx).
-- Gartner. (2019). The 2019 Gartner project management benchmarks. Retrieved from [https://www.gartner.com/en/documents/3873863/the-2019-gartner-project-management-benchmarks](https://www.gartner.com/en/documents/3873863/the-2019-gartner-project-management-benchmarks).
-- Harvard Business Review. (2019). Why so many strategic initiatives fail. Retrieved from [https://hbr.org/2019/03/why-so-many-strategic-initiatives-fail](https://hbr.org/2019/03/why-so-many-strategic-initiatives-fail).
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. New York: Farrar, Straus and Giroux.
-- McKinsey & Company. (2018). Aligning employees with the company's strategic goals. Retrieved from [https://www.mckinsey.com/business-functions/organization/our-insights/the-organization-blog/aligning-employees-with-the-companys-strategic-goals](https://www.mckinsey.com/business-functions/organization/our-insights/the-organization-blog/aligning-employees-with-the-companys-strategic-goals).
-- Pfeffer, J., & Sutton, R. I. (2000). *The Knowing-Doing Gap: How Smart Companies Turn Knowledge into Action*. Boston, MA: Harvard Business School Press. Retrieved from [https://hbr.org/product/the-knowing-doing-gap-how-smart-companies-turn-knowledge-into-action/1408E-KND-ENG](https://hbr.org/product/the-knowing-doing-gap-how-smart-companies-turn-knowledge-into-action/1408E-KND-ENG).
-- Project Management Institute. (2020). Influences on project failure. Retrieved from [https://www.pmi.org/learning/library/influences-project-failure-6225](https://www.pmi.org/learning/library/influences-project-failure-6225).
-- Simon, H. A. (1955). A Behavioral Model of Rational Choice. *The Quarterly Journal of Economics*, 69(1), 99-118. Retrieved from [https://www.jstor.org/stable/1884852](https://www.jstor.org/stable/1884852).
-- Standish Group. (2020). CHAOS Report 2015. Retrieved from [https://www.standishgroup.com/sample_research_files/CHAOSReport2015-Final.pdf](https://www.standishgroup.com/sample_research_files/CHAOSReport2015-Final.pdf).
-- Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. *Psychological Bulletin*, 133(1), 65-94. Retrieved from [https://doi.org/10.1037/0033-2909.133.1.65](https://doi.org/10.1037/0033-2909.133.1.65).
