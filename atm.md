@@ -16,9 +16,9 @@ Moreover, a survey by McKinsey & Company found that 70% of employees felt their 
 
 Despite knowing that certain tasks may be inefficient or ineffective, people often continue to engage in these activities due to a combination of cognitive limitations, biases, social influences, and organizational dynamics. Herbert Simon's concept of bounded rationality explains that individuals make decisions within the constraints of limited information and cognitive capabilities, often resulting in satisfactory rather than optimal choices ([Simon, 1955](https://www.jstor.org/stable/1884852)). Daniel Kahneman's research on cognitive biases reveals that people frequently rely on intuitive (System 1) thinking, which is prone to errors such as overconfidence, anchoring, and framing effects ([Kahneman, 2011](https://www.farrarstrausgiroux.com)). Piers Steel's work on procrastination indicates that individuals often delay or avoid tasks perceived as difficult or unpleasant, contributing to inefficiency ([Steel, 2007](https://doi.org/10.1037/0033-2909.133.1.65)). Furthermore, Jeffrey Pfeffer and Robert Sutton highlight the "knowing-doing gap," where organizations fail to translate knowledge into action due to lack of clear objectives, bureaucratic inertia, and misaligned incentives ([Pfeffer & Sutton, 2000](https://hbr.org/product/the-knowing-doing-gap-how-smart-companies-turn-knowledge-into-action/1408E-KND-ENG)). Social pressures and the desire to conform also play a significant role, as individuals may undertake tasks to align with perceived expectations rather than objective efficiency. These factors collectively explain why inefficiency and ineffectiveness persist in both individual and organizational behaviors.
 
-## 3. The ActivityZen Method
+## 3. The Activity Triage Method
 
-The ActivityZen Method revolves around three core questions that are designed to clarify (and enhance) the purpose and scope of any task. Having answers to these questions helps to improve the quality of task specifications, task assignment and task execution, and gives individuals more confidence that their efforts are directed towards actually meaningful and productive outcomes.
+The Activity Triage Method revolves around three core questions that are designed to clarify (and enhance) the purpose and scope of any task. Having answers to these questions helps to improve the quality of task specifications, task assignment and task execution, and gives individuals more confidence that their efforts are directed towards actually meaningful and productive outcomes.
 
 The questions are as follows:
 
@@ -62,11 +62,11 @@ These questions may be answered in a number of situations.
 - whenever a person has been executing a task for some time (some tasks take a long time). By answering these questions, that person can reassess the task's direction, make necessary adjustments, and ensure continued alignment with the intended purpose.
 - whenever a task is being evaluated for efficiency and effectiveness. By answering these questions, the person that evaluates that task can measure its success, identify areas for improvement, and provide actionable feedback.
 
-## 4. Benefits of the ActivityZen Method
+## 4. Benefits of the Activity Triage Method
 
 {{rewrite this chapter (including its title/header) such that the benefits are not yet claimed as such, but are envisaged or expected to be the result of the method.}}
 
-The ActivityZen Method offers several benefits by addressing the common barriers to effective task management, as identified by Simon, Kahneman, Steel, and Pfeffer. By providing a clear framework for task evaluation, the method helps individuals and organizations overcome cognitive limitations, biases, and organizational dynamics that lead to inefficiency.
+The Activity Triage Method offers several benefits by addressing the common barriers to effective task management, as identified by Simon, Kahneman, Steel, and Pfeffer. By providing a clear framework for task evaluation, the method helps individuals and organizations overcome cognitive limitations, biases, and organizational dynamics that lead to inefficiency.
 
 Firstly, the method increases efficiency by ensuring tasks are clearly defined with concrete results. This clarity helps in setting realistic expectations and provides measurable benchmarks for evaluating task completion. It reduces ambiguity and misunderstanding, leading to better resource allocation and successful task outcomes.
 
@@ -74,14 +74,14 @@ Secondly, the method improves communication by requiring precise identification 
 
 Thirdly, the method enhances task relevance by focusing on the intended use of the results. Understanding what users will do with the results ensures that task outcomes are designed to be functional and valuable. This alignment increases the practical application of the results, ensuring they meet users' needs effectively.
 
-Overall, the ActivityZen Method helps individuals and organizations become more efficient, effective, and communicative by providing a structured approach to task evaluation and execution.
+Overall, the Activity Triage Method helps individuals and organizations become more efficient, effective, and communicative by providing a structured approach to task evaluation and execution.
 
 ## 5. Practical Implementation
 
 {{write a one paragraph introduction for this section}}
 
 ### 5.1. Step-by-Step Guide
-Implementing the ActivityZen Method involves answering the three core questions for any task. Here is a detailed guide:
+Implementing the Activity Triage Method involves answering the three core questions for any task. Here is a detailed guide:
 
 1. **Identify the Concrete Results**:
    - Determine what tangible artifacts will be produced by the task.
@@ -99,7 +99,7 @@ Implementing the ActivityZen Method involves answering the three core questions 
    - Ensure the results are fit for their intended purpose.
 
 ### 5.2. Common Challenges and Solutions
-Implementing the ActivityZen Method may come with challenges such as resistance to change, difficulty in identifying specific users, or defining concrete results. Here are some solutions:
+Implementing the Activity Triage Method may come with challenges such as resistance to change, difficulty in identifying specific users, or defining concrete results. Here are some solutions:
 
 - **Resistance to Change**:
   - Educate stakeholders on the benefits of the method.
@@ -117,7 +117,7 @@ Implementing the ActivityZen Method may come with challenges such as resistance 
   - Seek feedback from peers or stakeholders to refine the results.
 
 ### 5.3. Case Studies
-Real-world examples and case studies demonstrate the successful application of the ActivityZen Method. This section serves as inspiration and provides practical insights into the method's effectiveness.
+Real-world examples and case studies demonstrate the successful application of the Activity Triage Method. This section serves as inspiration and provides practical insights into the method's effectiveness.
 
 {{create a one-cell table that contains the text "Placeholder for the results of the Groningen experiment".}}
 
@@ -126,19 +126,19 @@ Real-world examples and case studies demonstrate the successful application of t
 {{write a one paragraph introduction for this section}}
 
 ### 6.1. Motivating Yourself and Others
-Developing the discipline to consistently use the ActivityZen Method can be challenging. Here are some strategies:
+Developing the discipline to consistently use the Activity Triage Method can be challenging. Here are some strategies:
 
 - **Set Clear Goals**: Define what you want to achieve with the method and track your progress.
 - **Seek Feedback**: Regularly ask for feedback from peers and stakeholders to improve your approach.
 - **Celebrate Successes**: Acknowledge and celebrate the successful application of the method to build motivation.
 
 ### 6.2. Communicating with Stakeholders
-Effectively communicating the importance of the ActivityZen Method to others is crucial. Here are some tips:
+Effectively communicating the importance of the Activity Triage Method to others is crucial. Here are some tips:
 
 - **Explain the Benefits**: Clearly articulate the benefits of using the method.
 - **Provide Examples**: Use case studies or real-world examples to demonstrate its effectiveness.
 - **Be Patient**: Understand that adopting a new method takes time and persistence.
 
 ## 7. Conclusion
-The ActivityZen Method is a powerful tool for improving task evaluation and execution. By answering three simple but precise questions, individuals and teams can ensure their efforts are productive and aligned with user needs. This whitepaper has introduced the method, highlighted its benefits, and provided practical guidance for implementation. Readers are encouraged to start using the ActivityZen Method to enhance their task management processes.
+The Activity Triage Method is a powerful tool for improving task evaluation and execution. By answering three simple but precise questions, individuals and teams can ensure their efforts are productive and aligned with user needs. This whitepaper has introduced the method, highlighted its benefits, and provided practical guidance for implementation. Readers are encouraged to start using the Activity Triage Method to enhance their task management processes.
 
