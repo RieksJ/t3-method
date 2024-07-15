@@ -138,7 +138,7 @@ The feedback sessions served a number of objectives:
 
 The structure of a feedback session is quite simple. When people have taken their lunch and sit down, everyone gets a turn in reporting about any progress or setbacks they have experienced, after which others are invited to react in a way that helps all of the participants. There can be situations that benefit from practical interventions, asking participants to do some additional exercises during the week(s) to come.
 
-### 5.3 Observations
+### 5.3 Observations - 
 
 People on the mailing list of TNO location Groningen (roughly 100) were sent the invitation to the introductory session, and 15 showed up. We deliberately did not cater for recording the session, or the possibility to join online, to ensure the experience would not be {{fill in a good word here}} because of the presence of technology.
 
@@ -148,25 +148,54 @@ This exercise results in an immediate experience in what T3 method is about, and
 
 In the end, 10 out of the 15 attendees decided to commit to participate in the experiment. With them, we revised the agenda for feedback sessions to ensure the maximum number of them would be able to participate.
 
-In the first feedback session,
+In the first feedback session, some participants noted that they had trouble reminding themselves to their commitment, which became more so after time progressed. One participant limited herself to answering just the first question (results), which she nevertheless considered to be useful.
 
+Some participants reported to have encountered obstacles when using the questions in sessions with e.g., a customer, colleagues, or (large) projects. One such obstacle is that discussion partners of the participant were not used to these questions - particularly if they are asked explicitly. They experienced discomfort, and tried to avoid answering them while they (later on) recognized their importance.
 
+Another observation was that the questions didn't always lead to satisfying results. It wasn't clear whether this was inherently due to the task, or the fact that the participants didn't yet have the experience to handle these situations.
 
+Several participants reported to have used it to get their priorities straight, which led for some of them to skip some meetings. Another participant mentioned that the answers to the questions were a great help when writing a report, to determine what to write in it, and what not.
 
+In the second feedback session, participants reported to have used the method
+- to determine whether or not a task is sufficiently well-defined to start it;
+- to clarify for themselves what the purpose/result of (recurring) meetings are;
+- to decline meetings because it wasn't clear what it was for;
+- to come to grips with writing a report (what (not) to write);
+- lots of mails in the mailbox after holidays could be quickly deleted.
 
+{{rewrite the sentence below with one word for 'bold' ('audacious', 'uppish')}}
+One participant mentioned that it can be hard to be 'bold' ('audacious', 'uppish') and ask the questions out loud, particularly to senior colleagues. This led to an exchange of suggestions for formulating a mail in which these questions would be asked in a way that was 'safe' to send, and that would lead to their being answered.
 
+There were also participants that reported having done less with the method than the three weeks before. This resulted in an awareness that it would have been handy at times if they had done it.
 
+Participants reported the following effects:
+- it saved them energy that was otherwise spent in frustration;
+- answers help to work in a more structured fashion;
+- the method give me more peace of mind;
+- the feedback sessions are educational - people learn from one another, and sharing personal experiences becomes less of a problem;
 
+In the third feedback session, one participant reported to have used the method to inventory the stakeholders and their wishes regarding the functioning of an IT prototype. Without the method, this result would have been the same, but it would have taken longer to produce.
 
+Another participant reported to have used the method for getting answers regarding a project result. Neither the project manager, nor the customer could provide the answer. Using an informed guess for answers, this suited both of them. These answers serve the purpose of justifying the end result to the customer and project manager, and they were happy with them. It was noticed that in situations like these, there is an opportunity to phrase the answers in such a way that it simultaneously provides room for the participant to experiment with, or learn things that he might otherwise not have been able to learn, or experiment with. So while answering the questions don't always provide actual answers, they may still be useful as they can identify additional opportunities.
+
+After a demo (that was built with specific answers to the questions) was successfully demonstrated in a technical context, the idea came up to also demonstrate it to management. It was reported that the t3 method helped to identify the concrete direction and changes that would be required to prepare for such a demonstration. It felt that time was efficiently spent, and they felt more secure than if they had done it in the usual way.
+
+An effect that a participant mentioned in the context of writing a report was that 
+- it had saved some 20% of the time spent;
+- the quality was higher than would otherwise have been the case, because it was made explicit what the intended audience could do with it, which would otherwise not have been the case.
+
+A participant in the project manager role reported that when he was faced with setting up a project that consists of various work packages (WPs), held a meeting with the envisaged WP-leaders, in which he presented the projects goals, and the subgoals of the WPs in terms of answers to the t3-questions, which he subsequently discussed with them. This resulted in a team that had a well-defined direction to progress in, which was shown by the fact that various WP-leaders used the slides of their WPs later on as an anchor of what they were trying to realize.
+
+A participant that joined a project while it was running for 1+ years, tried to obtain answers to the t3-questions, only to find that project members were, and remained reluctant to provide answers to such questions.
 
 ## 6. Practicalities
 
-{{this chapter is going to contain advise or suggestions that result both from lessons learned in the Groningen experiment and also from what the literature suggests that would help to overcome the human behaviours that prevented the method from properly working (as elaborated on in the problem statement section). So write a few introductory to introduce the following sections. Then, create a section header for every suggestion you have, given the Groningen Experiment and the literature mentioned in the Problem Statement section. Next, write a small prompt (like this one between the double curly braces) for each of these sections that you could then later execute to provide the actual contents. }}
+{{this chapter is going to contain advise or suggestions that result both from lessons learned in the Groningen experiment and also from what the literature suggests that would help to overcome the human behaviours that prevented the method from properly working (as elaborated on in the problem statement section). So write a few introductory to introduce the following sections. Then, create a section header for every suggestion you have, given the Groningen Experiment and the literature mentioned in the Problem Statement section. Next, write a small prompt (like this one between the double curly braces) for each of these sections that you could then later execute to provide the actual contents.}}
 
 
 ## 7. Conclusion
 
-The Task Triage Toolbox method is a powerful tool for improving task evaluation and execution. By answering three simple but precise questions, individuals and teams can ensure their efforts are productive and aligned with user needs. This paper has introduced the method, highlighted its expected benefits, and provided practical guidance for implementation. Readers are encouraged to start using the Task Triage Toolbox method to enhance their task management processes.
+{{this chapter is going to contain a summary of the problems, the t3-method, the things we did to validate the method, and an explicit conclusion stating the validity of the method - indicating the contexts for which that conclusion holds if that is relevant/appropriate. Somewhere in the text it will state what readers can do that want themselves to start practicing the method.}}
 
 ## Appendix A - Invitation mail {#appendix-a}
 
