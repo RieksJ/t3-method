@@ -1,16 +1,18 @@
-# Streamlining Task Management: The Task Triage Toolbox method
+# Streamlining Task Management: The Task Triage Toolbox (T3) method
 
 ## Abstract
 
-In today's fast-paced and complex work environments, efficient task management is crucial for success. Many organizations and individuals struggle with identifying and prioritizing tasks effectively, leading to wasted resources and missed opportunities. This paper introduces the Task Triage Toolbox method, a simple yet powerful approach to task management that focuses on clarifying objectives, identifying actual users, and ensuring tasks are fit for their intended purpose. By addressing common inefficiencies and cognitive biases, the method aims to enhance productivity and alignment with strategic goals. The paper outlines the problem, describes the method in detail, and provides practical guidance for implementation, supported by real-world examples and case studies.
+{<rewrite the abstract to optimally reflect the contents of the paper>}
+In today's fast-paced and complex work environments, efficient task management is crucial for success. Many organizations and individuals struggle with identifying and prioritizing tasks effectively, leading to wasted resources and missed opportunities. This paper introduces the Task Triage Toolbox (T3) method, a simple yet powerful approach to task management that focuses on clarifying objectives, identifying actual users, and ensuring tasks are fit for their intended purpose. By addressing common inefficiencies and cognitive biases, the method aims to enhance productivity and alignment with strategic goals. The paper outlines the problem, describes the method in detail, and provides practical guidance for implementation, supported by real-world examples and case studies.
 
 ## 1. Introduction
 
+{<rewrite this 'introduction' chapter to optimally reflect the rest of the paper>}
 In many workplaces, people often find themselves engaged in tasks that do not seem to add much value. For example, employees might spend hours creating detailed reports that no one reads or participating in meetings that do not lead to actionable outcomes. While these activities might have 'good' reasons behind them, such as following company protocols or demonstrating diligence, they often result in inefficiency and frustration.
 
-There is a pressing need for a method that helps individuals and organizations identify and focus on tasks that truly matter. The Task Triage Toolbox method offers a structured approach to achieve this by asking three critical questions about any task: What are the concrete results? Who are the actual users? What will these users do with the results? By answering these questions, task objectives become clearer, and efforts are better aligned with meaningful outcomes.
+There is a pressing need for a method that helps individuals and organizations identify and focus on tasks that truly matter. The Task Triage Toolbox (T3) method offers a structured approach to achieve this by asking three critical questions about any task: What are the concrete results? Who are the actual users? What will these users do with the results? By answering these questions, task objectives become clearer, and efforts are better aligned with meaningful outcomes.
 
-This paper proposes the Task Triage Toolbox (T3) method, which is designed to improve task clarity, relevance, and effectiveness. Implementing this method can help reduce wasted efforts, enhance productivity, and ensure that tasks contribute to strategic goals. However, it also requires a shift in mindset and careful consideration of each task's purpose and impact.
+This paper proposes the T3 method, which is designed to improve task clarity, relevance, and effectiveness. Implementing this method can help reduce wasted efforts, enhance productivity, and ensure that tasks contribute to strategic goals. However, it also requires a shift in mindset and careful consideration of each task's purpose and impact.
 
 The structure of this paper is as follows: Section 2 outlines the common problems in task management and provides evidence of their prevalence. Section 3 introduces the T3 method in detail. Section 4 discusses the expected benefits of applying this method. Section 5 provides practical implementation guidelines, including a step-by-step guide and solutions to common challenges. Section 6 suggests strategies for encouraging adoption of the method, and Section 7 concludes the paper with a summary of key points and a call to action.
 
@@ -24,19 +26,44 @@ Moreover, a survey by McKinsey & Company found that 70% of employees felt their 
 
 Despite knowing that certain tasks may be inefficient or ineffective, people often continue to engage in these activities due to a combination of cognitive limitations, biases, social influences, and organizational dynamics. Herbert Simon's concept of bounded rationality explains that individuals make decisions within the constraints of limited information and cognitive capabilities, often resulting in satisfactory rather than optimal choices ([Simon, 1955](https://www.jstor.org/stable/1884852)). Daniel Kahneman's research on cognitive biases reveals that people frequently rely on intuitive (System 1) thinking, which is prone to errors such as overconfidence, anchoring, and framing effects ([Kahneman, 2011](https://www.farrarstrausgiroux.com)). Piers Steel's work on procrastination indicates that individuals often delay or avoid tasks perceived as difficult or unpleasant, contributing to inefficiency ([Steel, 2007](https://doi.org/10.1037/0033-2909.133.1.65)). Furthermore, Jeffrey Pfeffer and Robert Sutton highlight the "knowing-doing gap," where organizations fail to translate knowledge into action due to lack of clear objectives, bureaucratic inertia, and misaligned incentives ([Pfeffer & Sutton, 2000](https://hbr.org/product/the-knowing-doing-gap-how-smart-companies-turn-knowledge-into-action/1408E-KND-ENG)). Social pressures and the desire to conform also play a significant role, as individuals may undertake tasks to align with perceived expectations rather than objective efficiency. These factors collectively explain why inefficiency and ineffectiveness persist in both individual and organizational behaviors.
 
-## 3. The Task Triage Toolbox method
+## 3. The T3 method
 
-The Task Triage Toolbox method revolves around three core questions that are designed to clarify (and enhance) the purpose and scope of any task. Having answers to these questions helps to improve the quality of task specifications, task assignment and task execution, and gives individuals more confidence that their efforts are directed towards actually meaningful and productive outcomes.
+The T3 method consists of finding answers to three core questions that clarify (and enhance) the purpose and scope of any task. These answers help to improve the quality of task specifications, task assignment and task execution, and give individuals more confidence that their efforts are directed towards actually meaningful and productive outcomes.
 
-The questions are as follows:
+The questions for which answers are to be found are as follows:
 
-1. "**What are the <u>concrete results</u> of the task?**"
-2. "**Which (groups of) individual people will <u>actually</u> be using these results?**"
-3. "**What is it that these people will <u>actually be doing</u> with the results?**"
+1. "**What are the concrete results of the task?**"
+2. "**Which (groups of) individual people will actually be using these results?**"
+3. "**What is it that these people will actually (need to) be doing with the results?**"
 
-### 3.1. Concrete Results
+The following sections will first elaborate on when and where to use the method, and then elaborate on the so-called 'well-formedness criteria' for answers to these questions, i.e., criteria that the answers would ideally need to satisfy in order to produce the intended benefits.
 
-Answers to the first question ("**What are the <u>concrete results</u> of the task?**") should identify the concrete artifacts that will exist when the task is done (and that did not exist at the start). They can be tangible artifacts, such as documents, reports, presentations, but also intangibles such as new ideas, or enjoyable memories.
+### 3.1. When and Where to Use the Method
+
+While the T3 method can be applied to every single task you can imagine, doing so isn't always useful. It depends on who will be using the answers, and what it is that they will need to be doing with them.
+
+For example, routine tasks, such as making coffee, taking a break, writing a mail, would typically not warrant the overhead of pondering about the questions and finding answers. Still, if you do, that enables you to break such routines and make (the results of) such tasks special. However, knowing which people would be drinking the coffee and what effects they would like to see from that may stimulate you to make particularly tasteful coffee.
+
+As another example, suppose you were tasked with writing an email (=answer to Q1) in which you invite its addressees (=answer to Q2) to attend some meeting. You routinely state things like a topic, and the time and place where it will be held, as you know the addressees need this to determine if they can make it (=answer to Q3). However, pondering a bit more on Q3, you may realize that they may also want to assess what this meeting will actually bring them, what makes it worth their while, and balance that against the cost of attending. Realizing that enables you to write things that may help them make such assessments and decisions.
+
+The creation of a product that you want others to really use (and perhaps even purchase from you) is an example where answers to all three questions matter. The product must be very concrete, and its characteristics well known. Also, it must be very clear who is intended to use it, and what it is they need to be able to do with it. {{elaborate on this paragraph some more, provide one or two vey concrete and recognizable examples}} 
+
+{{add another three examples here of where the method is useful (to a smaller or larger extent).}}
+
+{{after having added another three examples (per the previous instruction), rewrite the above paragraphs that contain examples of tasks, such that the resulting text is a sequence of paragraphs where the first one is an example of where the method isn't very useful as it provides overhead without any real benefits, the last one is an example where it is crystal clear that without having answers to the questions, you are set up for disaster, and each example is a 'better' one than the one in the previous paragraph.}}
+
+These questions may be answered in a number of situations:
+- Whenever a task is designed. By answering these questions, the designer of the task can ensure the task is well-defined, relevant, and aligned with user needs.
+- Whenever a person is asked to execute a task. By answering these questions, that person can clarify their objectives, understand the expectations, and focus their efforts on producing meaningful results.
+- Whenever a person has been executing a task for some time (some tasks take a long time). By answering these questions, that person can reassess the task's direction, make necessary adjustments, and ensure continued alignment with the intended purpose.
+- Whenever a task is being evaluated for efficiency and effectiveness. By answering these questions, the person that evaluates that task can measure its success, identify areas for improvement, and provide actionable feedback.
+{{add other situations in which it may be beneficial to look for answers to the questions, and add them to this list. Each such situation must be characteristic, and people must readily recognize it.}}
+
+{{write a paragraph that explains that the method can be used (reflexively) for evaluating the benefits of using the method itself. After all, pondering on the questions and formulating answers thereto is also a task. And it depends on who will be using the results (which can be the person using the method, but also individuals using the results of the ask for which the method is being used), to what extent the answers need to be precise. Then introduce the following sections, in which well-formedness criteria (or qualification criteria, or ... criteria) are developed that you can use to determine whether or not to be satisfied with answers to these questions for the particular purpose you or someone else will be using them.}}
+
+### 3.2. Concrete Results
+
+Answers to the first question ("**What are the concrete results of the task?**") ideally identify the concrete artifacts that will exist when the task is done (and that did not exist at the start). They can be tangible artifacts, such as documents, reports, presentations, but also intangibles such as new ideas, or enjoyable memories.
 
 Answers should identify concrete artifacts, the existence of which is verifiable (auditable). Creating 'a solid advice' may be the name of a task, but since the existence of 'a solid advice' isn't verifiable, it doesn't qualify as an answer to this question. 
 
@@ -44,9 +71,9 @@ Ideally, answers to this question also specify any verifiable (auditable) charac
 
 Having a good answer to the question of concrete results ensures that tasks are clearly defined and their outcomes are measurable. This clarity helps in setting realistic expectations and provides a clear benchmark for evaluating task completion. It also facilitates better communication among team members and stakeholders, as everyone understands what is expected. Conversely, when the answer does not meet the qualifications, there is a risk of ambiguity and misunderstanding, leading to wasted effort, misaligned objectives, and potentially unsuccessful task outcomes.
 
-### 3.2. Actual Users
+### 3.3. Actual Users
 
-Answers to the second question ("**Which (groups of) individual people will <u>actually</u> be using these results?**") should list the names of the individuals that will be using the results, and/or the names of a group of people, such as "Members of Parliament", for which it is clear who is, and who is not, a member. We will use the term 'consumers (of a result)' to refer to the set of individuals that will actually be using that result.
+Answers to the second question ("**Which (groups of) individual people will actually be using these results?**") should list the names of the individuals that will be using the results, and/or the names of a group of people, such as "Members of Parliament", for which it is clear who is, and who is not, a member. We will use the term 'consumers (of a result)' to refer to the set of individuals that will actually be using that result.
 
 Answers should not refer to groups of individuals for which it cannot be established who is, and who is not a part of the group. For example, "the customer" or "readers" are not useful as an answer.
 
@@ -56,27 +83,17 @@ Identifying the actual users of a task's results ensures that the task is tailor
 
  the other hand, if the answer is vague or inaccurate, there is a risk of creating results that are misaligned with user needs, leading to dissatisfaction, underutilization, and wasted resources.
 
-### 3.3. Fit-for-Purposeness
+### 3.4. Fit-for-Purposeness
 
-Answers to the third question ("**What is it that these people will <u>actually be doing</u> with the results?**") list the activities of every (group of) consumers for which the result is necessary.
+Answers to the third question ("**What is it that these people will actually be doing with the results?**") list the activities of every (group of) consumers for which the result is necessary.
 
 Ideally, answers to this question also elaborate on the particular characteristics of the results that make it particularly valuable for being used in specific activities. 
 
 Understanding what users will do with the results ensures that the task outcomes are designed to be fit for their intended purpose. This alignment helps in creating results that are not only relevant but also functional and valuable for specific activities. It enhances the practical application of the results, ensuring they meet the users' needs effectively. If this question is not adequately answered, there is a risk of producing results that are impractical or irrelevant, reducing their utility and impact.
 
-### 3.4. When and Where to Use the Method
+## 4. Expected Benefits of the T3 method
 
-These questions may be answered in a number of situations:
-- Whenever a task is designed. By answering these questions, the designer of the task can ensure the task is well-defined, relevant, and aligned with user needs.
-- Whenever a person is asked to execute a task. By answering these questions, that person can clarify their objectives, understand the expectations, and focus their efforts on producing meaningful results.
-- Whenever a person has been executing a task for some time (some tasks take a long time). By answering these questions, that person can reassess the task's direction, make necessary adjustments, and ensure continued alignment with the intended purpose.
-- Whenever a task is being evaluated for efficiency and effectiveness. By answering these questions, the person that evaluates that task can measure its success, identify areas for improvement, and provide actionable feedback.
-
-What we refer to by 'task' can in fact be many different things. It can be as large as a project, and work packages therein. It can be as small as reading a paper, attending a meeting, etc. {{evaluate this paragraph, and revise its contents so that the examples become appealing to the target audience.}}
-
-## 4. Expected Benefits of the Task Triage Toolbox method
-
-The Task Triage Toolbox method is envisaged to provide several significant benefits by addressing common barriers to effective task management, as identified by Simon, Kahneman, Steel, and Pfeffer. By providing a clear framework for task evaluation, the method is expected to help individuals and organizations overcome cognitive limitations, biases, and organizational dynamics that lead to inefficiency.
+The T3 method is envisaged to provide several significant benefits by addressing common barriers to effective task management, as identified by Simon, Kahneman, Steel, and Pfeffer. By providing a clear framework for task evaluation, the method is expected to help individuals and organizations overcome cognitive limitations, biases, and organizational dynamics that lead to inefficiency.
 
 Firstly, the method is anticipated to increase efficiency by ensuring tasks are clearly defined with concrete results. This clarity will help in setting realistic expectations and provide measurable benchmarks for evaluating task completion. It is expected to reduce ambiguity and misunderstanding, leading to better resource allocation and successful task outcomes.
 
@@ -84,7 +101,7 @@ Secondly, the method aims to improve communication by requiring precise identifi
 
 Thirdly, the method is designed to enhance task relevance by focusing on the intended use of the results. Understanding what users will do with the results ensures that task outcomes are designed to be functional and valuable. This alignment is expected to increase the practical application of the results, ensuring they meet users' needs effectively.
 
-Overall, the Task Triage Toolbox method is expected to help individuals and organizations become more efficient, effective, and communicative by providing a structured approach to task evaluation and execution.
+Overall, the T3 method is expected to help individuals and organizations become more efficient, effective, and communicative by providing a structured approach to task evaluation and execution.
 
 ## 5. The Groningen Experiment
 
@@ -195,7 +212,7 @@ A participant that joined a project while it was running for 1+ years, tried to 
 
 ## 7. Conclusion
 
-{{this chapter is going to contain a summary of the problems, the t3-method, the things we did to validate the method, and an explicit conclusion stating the validity of the method - indicating the contexts for which that conclusion holds if that is relevant/appropriate. Somewhere in the text it will state what readers can do that want themselves to start practicing the method.}}
+{<this chapter is going to contain a summary of the problems, the t3-method, the things we did to validate the method, and an explicit conclusion stating the validity of the method - indicating the contexts for which that conclusion holds if that is relevant/appropriate. Somewhere in the text it will state what readers can do that want themselves to start practicing the method.>}
 
 ## Appendix A - Invitation mail {#appendix-a}
 

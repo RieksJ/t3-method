@@ -54,7 +54,7 @@ In case the modification of the text cannot be properly executed due to processi
 ### Strategies
 1. **Identify and Execute Commands**
    - Detect instructions enclosed in double curly braces `{{...}}`.
-   - Execute these instructions only if they are not enclosed in comment markers.
+   - Execute these instructions only if they are not enclosed in comment markers `<!-- ... -->`.
 
 2. **Comment Marker Handling**
    - After executing a command, enclose it in comment markers `<!-- ... -->` to keep a record of what was done.
