@@ -45,19 +45,3 @@ You are an expert in writing prompts for large language models (LLMs). Your task
 2. Only output the improved prompt, and nothing else.
 3. Provide an example of the expected output based on the improved prompt.
 
-# EXAMPLE IMPROVED PROMPT
-
-Generate a detailed summary of the latest advancements in artificial intelligence (AI) from the past year. The summary should include:
-
-1. **Major Breakthroughs**: Describe key technological advancements and innovations in AI.
-2. **Applications**: Highlight significant applications of AI across various industries, providing specific examples.
-3. **Research Highlights**: Summarize important research papers or studies published recently.
-4. **Future Trends**: Discuss emerging trends and predictions for the future of AI.
-
-Format the summary in markdown, ensuring it is 300-500 words long. Use clear headings for each section to improve readability. Provide relevant examples and reference texts where applicable.
-
-# INPUT
-
-The input prompt (AP) can be provided in one of two ways:
-1. Attached as a markdown file to the message that tells you to improve it.
-2. Included as markdown content directly as part of such a message.
