@@ -1,8 +1,13 @@
 ## 2. Problem Statement
 
-Many organizations and individuals struggle with task management, often spending time on activities that do not yield tangible benefits. {{support: provide 2 examples of that substantial evidence}}
+Many organizations and individuals struggle with task management, which leads to inefficient and ineffective task execution. {{support: provide one argument that elaborates on the kinds of struggles, another one that supports the inefficiency claim, and a third one to support the ineffectiveness claim}}
 
-Common issues include vague task objectives, unclear target users, and a lack of understanding of the task's ultimate purpose. {{support}}
+Many organizations and individuals struggle with task management, which leads to inefficient and ineffective task execution. 
+
+Organizations often face challenges such as unclear task objectives, insufficient resources, and lack of proper communication channels, which hinder effective task management. These struggles contribute to inefficiencies, as tasks may be duplicated or left incomplete due to miscommunication and misalignment of goals. Additionally, the ineffectiveness of task execution is evident in the failure to meet deadlines, the poor quality of deliverables, and the inability to achieve desired outcomes, all stemming from inadequate task management practices.
+
+
+Common issues include vague task objectives, unclear target users, and a lack of understanding of the task's ultimate purpose. {{support: }}
 
 These inefficiencies can lead to wasted resources and missed opportunities. {{support: provide reports/research that quantify this}}
 

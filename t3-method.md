@@ -38,37 +38,34 @@ The questions for which answers are to be found are as follows:
 
 The following sections will first elaborate on when and where to use the method, and then elaborate on the so-called 'well-formedness criteria' for answers to these questions, i.e., criteria that the answers would ideally need to satisfy in order to produce the intended benefits.
 
-### 3.1. When and Where to Use the Method
+### 3.1. When to Use the Method
 
-While the T3 method can be applied to every single task you can imagine, doing so isn't always useful. It depends on who will be using the answers, and what it is that they will need to be doing with them.
+While the T3 method can be applied to every single task you can imagine, doing so isn't always useful. It depends on who will be using the answers, and what it is that they will need to be doing with them:
 
-For example, routine tasks, such as making coffee, taking a break, or writing an email, typically do not warrant the overhead of pondering the questions and finding answers. Still, if you do, that enables you to break such routines and make (the results of) such tasks special. However, knowing which people would be drinking the coffee and what effects they would like to see from that may stimulate you to make particularly tasteful coffee.
+- Routine tasks, such as making coffee, taking a break, or writing an email, typically do not warrant the overhead of pondering the questions and finding answers.
+- Writing emails, e.g., in which you invite people to attend some meeting, typically don't require you to spend time finding the answers to the questions. However, stating the answers in your mail would help these people to better realize the importance of that meeting, the relevance of them attending, and balancing that against the cost of attending.
+- Desiging and producing something that you want others to really use (and perhaps even purchase from you) benefits from having the answers to all three questions. It helps you devise its requirements, and make design decisions aimed at making the product optimally useful for those you intend to sell it to. Examples include training programs for employees, community events, marketing campaigns, software programs, project proposals, and so on.
 
-As another example, suppose you were tasked with writing an email in which you invite its addressees to attend some meeting. You routinely state things like the topic, and the time and place where it will be held, as you know the addressees need this to determine if they can make it. However, pondering a bit more on what the addressees will actually need to do with the information, you may realize that they may also want to assess what this meeting will actually bring them, what makes it worth their while, and balance that against the cost of attending. Realizing that enables you to write things that may help them make such assessments and decisions.
+When a task warrants using the T3 method, answering the questions may be useful whenever:
+- a task is designed. By answering these questions, the designer of the task can ensure the task is well-defined, relevant, and aligned with user needs.
+- a person is asked to execute a task. By answering these questions, that person can clarify their objectives, understand the expectations, and focus their efforts on producing meaningful results.
+- a person has been executing a task for some time (some tasks take a long time). By answering these questions, that person can reassess the task's direction, make necessary adjustments, and ensure continued alignment with the intended purpose.
+- a task is being evaluated for efficiency and effectiveness. By answering these questions, the person that evaluates that task can measure its success, identify areas for improvement, and provide actionable feedback.
+- there is a need to justify the resources allocated to a task. By answering these questions, the person responsible for resource management can ensure that the resources are being used effectively and align with the intended outcomes.
+- setting priorities among multiple tasks. By answering these questions, decision-makers can prioritize tasks based on their relevance, impact, and alignment with strategic goals.
 
-The creation of a product that you want others to really use (and perhaps even purchase from you) is an example where answers to all three questions matter. The product must be very concrete, and its characteristics well known. Also, it must be very clear who is intended to use it, and what it is they need to be able to do with it. For example, consider developing a new project management software. The concrete result (the software) should have specific features like task tracking and reporting. The users (project managers) need to manage their projects more efficiently, and they will be using the software to assign tasks, track progress, and generate reports.
+Note that using the T3 method for a particular task, i.e., finding answers to its questions, is itself a subtask of that task, that may also benefit from having the questions answered:
+1. The results of this T3 subtask are answers for the questions for the particular task.
+2. The people that will be using these answers can, but need not include, or be limited to, yourself.
+3. Knowing wwhat these people will do with the answers will help you determine the extent to which the answers need to be precies.
 
-Another example is designing a training program for employees. The concrete result is the training curriculum and materials. The users are the employees attending the training. They will be using the results to gain new skills and knowledge to apply in their job roles, improving their performance and productivity.
-
-A third example could be organizing a community event. The concrete result is the event plan and execution. The users are the community members who will attend and participate in the event. They will be using the results to enjoy and engage in community activities, fostering a sense of belonging and community spirit.
-
-Finally, consider the development of a marketing campaign. The concrete result is the marketing content and strategy. The users are the marketing team who will execute the campaign and the target audience who will receive the marketing messages. The marketing team uses the strategy to reach potential customers, while the target audience uses the content to make informed purchasing decisions.
-
-These questions may be answered in a number of situations:
-- Whenever a task is designed. By answering these questions, the designer of the task can ensure the task is well-defined, relevant, and aligned with user needs.
-- Whenever a person is asked to execute a task. By answering these questions, that person can clarify their objectives, understand the expectations, and focus their efforts on producing meaningful results.
-- Whenever a person has been executing a task for some time (some tasks take a long time). By answering these questions, that person can reassess the task's direction, make necessary adjustments, and ensure continued alignment with the intended purpose.
-- Whenever a task is being evaluated for efficiency and effectiveness. By answering these questions, the person that evaluates that task can measure its success, identify areas for improvement, and provide actionable feedback.
-- Whenever there is a need to justify the resources allocated to a task. By answering these questions, the person responsible for resource management can ensure that the resources are being used effectively and align with the intended outcomes.
-- Whenever setting priorities among multiple tasks. By answering these questions, decision-makers can prioritize tasks based on their relevance, impact, and alignment with strategic goals.
-
-The method can also be used reflexively for evaluating the benefits of using the method itself. After all, pondering the questions and formulating answers thereto is also a task. It depends on who will be using the results (which can be the person using the method, but also individuals using the results of the task for which the method is being used), to what extent the answers need to be precise. The following sections introduce the well-formedness criteria (or qualification criteria) that can be used to determine whether or not to be satisfied with answers to these questions for the particular purpose you or someone else will be using them.
+The following sections introduce the well-formedness criteria (or qualification criteria) that can be used to determine whether or not to be satisfied with answers to these questions for the particular purpose you or someone else will be using them. The examples above already show that the amount of time and energy spent in finding answers to the questions depends on the context (the task to which they pertain). 
 
 ### 3.2. Concrete Results
 
-Answers to the first question ("**What are the concrete results of the task?**") ideally identify the concrete artifacts that will exist when the task is done (and that did not exist at the start). They can be tangible artifacts, such as documents, reports, presentations, but also intangibles such as new ideas or enjoyable memories.
+Answers to the first question ("**What are the concrete results of the task?**") ideally identify the concrete artifacts that will exist when the task is done (and that did not exist at the start). They can be tangible artifacts, such as documents, reports, presentations, but also intangibles such as new ideas, knowledge, or enjoyable memories.
 
-Answers should identify concrete artifacts, the existence of which is verifiable (auditable). Creating 'a solid advice' may be the name of a task, but since the existence of 'a solid advice' isn't verifiable, it doesn't qualify as an answer to this question. 
+Answers should identify concrete artifacts, the existence of which must be easy to verify. Creating 'a solid advice' may be the name of a task, but distinguishing 'a solid advice' from a not-so-solid one is typically not easy - it is also subject to dispute - and hence doesn't qualify as a proper answer to this question.
 
 Ideally, answers to this question also specify any verifiable (auditable) characteristics that the results are expected to have. For example, a report may require that a particular template be used, is written in a given language, has an appendix that contains a glossary of terms and/or abbreviations used, etc.
 
@@ -106,13 +103,15 @@ Overall, the T3 method is expected to help individuals and organizations become 
 
 ## 5. The Groningen Experiment
 
-The 'Groningen Experiment' is an experiment that was conducted at the TNO location in Groningen (hence the name). The expermiment aimed at validating the hypothesis "TNOers that conscientiously apply the T3 mehod are more efficient and effective in executing activities than those that do not."
+The 'Groningen Experiment' is an experiment that was conducted at the TNO location in Groningen (hence the name). The expermiment aimed at validating the hypothesis "TNOers that conscientiously apply the T3 mehod are more efficient and effective in executing activities than those that do not." 
+
+This chapter elaborates on the experiment, providing all information readers may need if they wanted to conduct a similar experiment in their own context.
 
 The experiment consisted of: 
 1. Finding a set of TNOers that commit to use the method for some time.
-3. Doing feedback sessions (once every 2/3 weeks, during 3 months) so as to support and stimulate participants to fulfill their commitment, and obtain all sorts of feedback related to the efficiency/effectivity, etc.
-4. Collecting the feedback, analyse it, etc.
-5. Writing a document that at least summarizes the experiment and its results.
+2. Doing feedback sessions (once every 2/3 weeks, during 3 months) so as to support and stimulate participants to fulfill their commitment, and obtain all sorts of feedback related to the efficiency/effectivity, etc.
+3. Collecting the feedback, analyse it, etc.
+4. Writing a document that at least summarizes the experiment and its results.
 
 The main risk we identified for this experiment is that participants would prematurely leave the experiment, as this could cause the following objectives to not be realized (as well as we could like):
 - Participants can independently use the method where and when that helps them save time by becoming more efficient and effective;
@@ -156,15 +155,19 @@ The feedback sessions served a number of objectives:
 
 The structure of a feedback session is quite simple. When people have taken their lunch and sit down, everyone gets a turn in reporting about any progress or setbacks they have experienced, after which others are invited to react in a way that helps all of the participants. There can be situations that benefit from practical interventions, asking participants to do some additional exercises during the week(s) to come.
 
-### 5.3 Observations - 
+### 5.3 Observations 
 
 People on the mailing list of TNO location Groningen (roughly 100) were sent the invitation to the introductory session, and 15 showed up. We deliberately did not cater for recording the session, or the possibility to join online, to ensure the experience would not be {{fill in a good word here}} because of the presence of technology.
+
+#### 5.3.1 The Introductory Session
 
 Filling in the template with the three questions was relatively easy for some, but most of them had trouble finding answers. 5 people answered all three questions, most of which were (almost suspisciously) consistent with texts from the invitation. 9 people either provided answers with question marks or other indicators of uncertainty, suggesting they had trouble either understanding what was asked, or formulating the answer. 1 person had answers for questions 1 and 2, but no clue regarding question 3.
 
 This exercise results in an immediate experience in what T3 method is about, and the effects it can have with people. The idea behind it is that such experiences would be useful for them when deciding whether or not to participate in the experiment. Presenting the results of this exercise by Willem and Rieks (who did it up-front, of course) illustrated what answers could look like (for those that were still wondering), and also clarified the effects that these answers could have on designing the introduction session. This was further illustrated by the organizers presenting case-material from their own lives.
 
-In the end, 10 out of the 15 attendees decided to commit to participate in the experiment. With them, we revised the agenda for feedback sessions to ensure the maximum number of them would be able to participate.
+In the end, 10 out of the 15 attendees decided to commit to participate in the experiment. With them, we revised the agenda for feedback sessions to ensure the maximum number of them would be able to participate. 
+
+#### 5.3.2 Feedback Sessions
 
 In the first feedback session, some participants noted that they had trouble reminding themselves to their commitment, which became more so after time progressed. One participant limited herself to answering just the first question (results), which she nevertheless considered to be useful.
 
@@ -205,6 +208,43 @@ An effect that a participant mentioned in the context of writing a report was th
 A participant in the project manager role reported that when he was faced with setting up a project that consists of various work packages (WPs), held a meeting with the envisaged WP-leaders, in which he presented the projects goals, and the subgoals of the WPs in terms of answers to the t3-questions, which he subsequently discussed with them. This resulted in a team that had a well-defined direction to progress in, which was shown by the fact that various WP-leaders used the slides of their WPs later on as an anchor of what they were trying to realize.
 
 A participant that joined a project while it was running for 1+ years, tried to obtain answers to the t3-questions, only to find that project members were, and remained reluctant to provide answers to such questions.
+
+The subsequent feedback sessions showed an increasingly drop of participants. This was partly due to them going on leave - it is the summer holiday season, but also because people set different priorities.
+
+#### 5.3.3 Evaluation Questionnaire
+
+At the end of the experiment, participants were asked to answer the questions below for the purpose of evaluating the T3 method on its costs and merits. Four out of the ten partipants that we started out with provided answers. Here's a summary of what they reported:
+
+**What has this method meant for me personally?**
+- It is important - particularly for big choices/projects/tasks - to answer ALL THREE questions. When a single one lacks, something substantial and valuable is missing to guide your behavior.
+- I'm more aware that results of activities need to be used by people in the end.
+- It has made me more aware of the fact that I am allowed to make my own considerations for making or attending something. It has also made me aware of these specific considerations and has helped to 'automate' these considerations.
+- I'm more efficient when writing reports, and find it easier to prioritize meetings.
+
+**What did it cost me, and was it worth my while?**
+- It's not a big cost in terms of time, and it certainly is worth my while.
+- I had to remind myself regularly to use it; apart from that, it didn't cost much, and it was worth my while.
+- A bit too much overhead for me, as the answers did not change my behavior/decisions (and I had trouble finding answers)
+- The cost is the time spent in answering the questions. For some meetings that's worthwhile, for others not (so I won't be using the T3 method for those again). For writing reports, it is really worthwhile.
+
+**What are the impediments you encountered, and to what extent have they been solved?**
+- There was a lack of allies in projects, and finding answers to the questions on your own is difficult.
+- The main obstacle is perhaps my own ego or a piece of laziness/fatigue. That I think I can do a lot, or would like to please others or do not feel like thinking carefully about what I do. With that I sometimes deprive myself of the opportunity to apply the method at moments where it could have been helpful.
+- Forgetting (to use) the method is my main impediment.
+- Getting answers to questions 2 and 3 is increasingly hard. In the course of time, I learned how to get others (e.g., the meeting organizer) to help me find them. 
+
+**How, or to what extent, will you be using (parts of) the T3 method in the coming weeks (months, years)?**
+- It's in the back of my head. I intend to use it at some point, and would like to be reminded of that in the course of time.
+- In any case, at the start of each project and also in any progress meetings when we discuss the further course of the project and evaluate the route taken.
+- Mainly for deliverables, but hopefully also more and more for projects and meetings. In other words, to work with more focus but also to protect myself a bit.
+- As soon as I notice that a meeting request is vague/unclear, I will use it. Same when writing any memo or report. 
+
+**What tips do you have for us if we would contemplate setting up another such experiment?**
+- In the beginning, provide fictitious or real-world cases and tell us how T3 works there.
+- Don't plan this during holiday seasons.
+- Limit the number of feedback sessions (2, 3).
+- Let people work in groups - e.g., in a department, a project, etc. - so that their members can remind and help each other to use it, and it becomes more acceptable to ask the questions.
+- Print labels with  `1. Result, 2. User, 3. Applicability` that users can stick on their laptops.
 
 ## 6. Practicalities
 
